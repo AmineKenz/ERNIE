@@ -24,4 +24,5 @@
 
 
 # Exécution du script Python
+pip install tagme
 python example.py
