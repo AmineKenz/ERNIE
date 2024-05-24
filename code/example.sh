@@ -20,8 +20,7 @@
 #SBATCH --mail-type=ALL # (BEGIN, END, FAIL or ALL)
 #SBATCH --mail-user=mohamed-amine.kenzeddine@etu.univ-amu.fr
 
-# Installation des bibliothèques nécessaires
-pip install boto3
+
 
 
 # Exécution du script Python
