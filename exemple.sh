@@ -7,7 +7,7 @@
 #SBATCH --time=100:00:00
 
 # Partition (ou queue) à utiliser
-#SBATCH -p skylake
+#SBATCH -p kepler
 
 # Nombre de GPU à utiliser
 #SBATCH --gres=gpu:3
