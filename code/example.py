@@ -15,7 +15,7 @@ text_b = "Jim Henson was a puppeteer ."
 # Use TAGME
 import tagme
 # Set the authorization token for subsequent calls.
-tagme.GCUBE_TOKEN = "<Your token goes here>"
+tagme.GCUBE_TOKEN = "8a75af96-6a89-43b7-93e4-f39169ccc3b3-843339462"
 text_a_ann = tagme.annotate(text_a)
 text_b_ann = tagme.annotate(text_b)
 
